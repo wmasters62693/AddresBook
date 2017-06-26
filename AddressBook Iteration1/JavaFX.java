@@ -1,26 +1,26 @@
+import java.io.*;
+import java.util.*;
+import java.util.ArrayList;
 import javafx.application.Platform;
 import javafx.embed.swing.JFXPanel;
-import javafx.stage.Stage;
+import javafx.event.ActionEvent;
+import javafx.geometry.Insets;
+import javafx.geometry.Pos;
 import javafx.scene.*;
 import javafx.scene.control.Button;
-import javafx.scene.control.TextField;
-import javafx.scene.layout.Pane;
-import javafx.event.ActionEvent;
-import javafx.stage.WindowEvent;
 import javafx.scene.control.Label;
+import javafx.scene.control.TextField;
+import javafx.scene.Group;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
-import javafx.scene.shape.Rectangle;
-import javafx.scene.layout.VBox;
 import javafx.scene.layout.HBox;
-import javafx.geometry.Insets;
-import javafx.scene.Scene;
-import javafx.geometry.Pos;
-import javafx.scene.Group;
-import java.util.ArrayList;
-import java.io.*;
+import javafx.scene.layout.Pane;
+import javafx.scene.layout.VBox;
 import javafx.scene.paint.Color;
-import java.util.*;
+import javafx.scene.Scene;
+import javafx.scene.shape.Rectangle;
+import javafx.stage.Stage;
+import javafx.stage.WindowEvent;
 
 public class JavaFX
 {
