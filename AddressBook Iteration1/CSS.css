@@ -1,0 +1,37 @@
+#contactButton {
+	-fx-background-color: #bfbfbf;
+	-fx-font-size: 14pt;
+	
+	-fx-border-radius: 0 10 0 0;
+	-fx-background-radius: 0 10 0 0;
+} 
+
+#contactButton: hover {
+	-fx-background-color: #fbc902;
+}
+
+
+
+
+
+
+#FuncBtn {
+	-fx-background-color: #fbc902;
+	-fx-font-size: 14pt;
+	
+	-fx-background-radius: 0 10 0 0;
+}
+
+#FuncBtn: hover {
+	-fx-background-color: #ffe972;
+}
+
+
+
+#Name {
+	-fx-font-size: 24pt;
+}
+
+#Address {
+	-fx-font-size: 14pt;
+}
