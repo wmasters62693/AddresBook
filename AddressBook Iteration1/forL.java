@@ -1,5 +1,5 @@
 import java.io.*;
-public class forL
+public class TestArea
 {
     public static void main (String [] args)
     {
