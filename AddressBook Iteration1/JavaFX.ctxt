@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=JavaFX
+comment1.params=
+comment1.target=void\ LaunchFX()
+comment2.params=
+comment2.target=void\ initialiseGUI()
+comment3.params=
+comment3.target=void\ Terminate()
+numComments=4
