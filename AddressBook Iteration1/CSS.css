@@ -32,6 +32,9 @@
 	-fx-font-size: 24pt;
 }
 
-#Address {
+#PersonDataBox {
 	-fx-font-size: 14pt;
+	-fx-border-width: 2px;
+	-fx-border-style: dashed;
+	-fx-border-color: #bfbfbf;
 }
